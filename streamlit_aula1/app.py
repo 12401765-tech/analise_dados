@@ -14,7 +14,6 @@ df = pd.DataFrame({
 })
 df
 
-st.divider()
 st.subheader("Compras de supermercado")
 precos = {"Arroz (1 kg)": 6.00, "Feijão (1 kg)": 8.00,
           "Leite (1 L)": 5.00, "Pão (pacote)": 7.50,
